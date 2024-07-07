@@ -1,0 +1,18 @@
+: 1720225490:0;npm run asset-code
+: 1720225586:0;npm --version
+: 1720225595:0;node --version
+: 1720226071:0;npm workspace
+: 1720226179:0;npm init
+: 1720226184:0;npm install
+: 1720226200:0;npm --version
+: 1720226204:0;npm --help
+: 1720226424:0;npm run build -w utils/lezer-gdscript
+: 1720226436:0;npm run asset-code
+: 1720328826:0;npm run logo
+: 1720329964:0;npm install -D @motion-canvas/ffmpeg\
+\
+
+: 1720330220:0;npm run logo
+: 1720335371:0;npm install
+: 1720335425:0;npm run examples
+: 1720338482:0;git checkout -B ex

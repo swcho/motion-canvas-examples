@@ -9,6 +9,7 @@
     "smooth-parallax": "npm run serve -w examples/smooth-parallax",
     "deferred-lighting": "npm run serve -w examples/deferred-lighting",
     "motion-canvas": "npm run serve -w examples/motion-canvas",
+    "examples": "npm run serve -w examples/examples",
     "logo": "npm run serve -w examples/logo",
     "lint": "eslint \"examples/**/src/**/*.ts?(x)\"",
     "lint:fix": "eslint --fix \"examples/**/src/**/*.ts?(x)\"",
@@ -30,8 +31,9 @@
     "@motion-canvas/core": "3.15.0"
   },
   "devDependencies": {
-    "@motion-canvas/vite-plugin": "3.14.1",
+    "@motion-canvas/ffmpeg": "^1.1.1",
     "@motion-canvas/ui": "3.15.0",
+    "@motion-canvas/vite-plugin": "3.14.1",
     "@typescript-eslint/eslint-plugin": "^5.29.0",
     "@typescript-eslint/parser": "^5.29.0",
     "eslint": "^8.18.0",
